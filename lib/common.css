@@ -62,6 +62,10 @@ pauls-nav-item[current] .icon {
   top: 1.5rem;
 }
 
+.flyers {
+  padding: 0 1rem;
+}
+
 .flyers > p {
   font-size: 13px;
 }
