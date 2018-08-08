@@ -1,0 +1,51 @@
+.page-layout {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.page-left-sidenav,
+.page-right-sidenav {
+  flex: 0 0 260px;
+  padding: 0 20px;
+}
+
+.avatar {
+  margin-bottom: 1em;
+  border-radius: 2px;
+}
+
+pauls-nav {
+  position: sticky;
+  top: 1em;
+  background: #fff;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+pauls-nav-item {
+  padding: 4px 16px;
+  border: 1px solid transparent;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+pauls-nav-item .icon {
+  width: 16px;
+  margin-left: 8px;
+}
+
+pauls-nav-item[current] {
+  font-weight: bold;
+  border: 1px solid #ccc;
+  border-right-color: transparent;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
+
+pauls-social-profile-overview {
+  margin-bottom: 40px;
+}
+
+pauls-post {
+  background: red;
+}

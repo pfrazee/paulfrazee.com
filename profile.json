@@ -1,0 +1,219 @@
+{
+  "name": "Paul Frazee",
+  "bio": "Co-creator of the Beaker Browser and an advocate of the open Web.",
+  "avatar": "/media/avatars/current.jpg",
+  "details": {
+    "job": [
+      {
+        "title": "Blue Link Labs",
+        "href": "https://bluelinklabs.com"
+      },
+      "Cofounder"
+    ],
+    "significant_other": {
+      "href": "dat://6348fac3c70e916885ead7dce6927f01e02c0efd1a9273849891c23b7e7bac4d",
+      "title": "Tara Vancil"
+    },
+    "hometown": "Abilene, TX",
+    "currently_playing": "Overwatch",
+    "currently_listening_to": "Exciteshroom Adventure (Mord Fustang)",
+    "currently_excited_for": "The DWeb Summit",
+    "political_leanings": "Socialist Democrat (USA)",
+    "religion": "Secular Humanism",
+    "hates": ["Fox News"]
+  },
+  "follows": [
+    {
+      "url": "dat://6348fac3c70e916885ead7dce6927f01e02c0efd1a9273849891c23b7e7bac4d",
+      "name": "Tara Vancil"
+    },
+    {
+      "url": "dat://0050cbe09452182e479494b850c5b8002e01e51fc3e40a37536956123b922e44",
+      "name": "Tim Caswell"
+    },
+    {
+      "url": "dat://451bfcddf442c6552b27480e4c7c575466b5966c5d4c3b692456364fb92e01c6",
+      "name": "Ross Schulman"
+    },
+    {
+      "url": "dat://14e02bfbe6d66113327a1e2f473dcd639dc3d9d97a05c1e5778a6c295fd02095",
+      "name": "Sander"
+    },
+    {
+      "url": "dat://f0920b156cddf7394b150d40b385f0af2e2e6b65e0d0bc488923b1bb9967a86e",
+      "name": "Ache"
+    },
+    {
+      "url": "dat://9721febc50b438c3a24997f8c15a2daf1f9a16ffd480441136b907f6964b946f",
+      "name": "PsaeBrai"
+    },
+    {
+      "url": "dat://c6740b08b319265079ebb9da98ee11a01da5d5379ca5d0ef12fa539403532372",
+      "name": "Jim Pick"
+    },
+    {
+      "url": "dat://51085e4c6e1cf9593804677ac17734a37b831d9d93f91448460fb7c1771128de",
+      "name": "M. Walker Wells"
+    },
+    {
+      "url": "dat://559ea7281defcb04c4d9a005f97310d0e6a7b6f35d2ed283374eb0d42d3513ff",
+      "name": "rho"
+    },
+    {
+      "url": "dat://6b2a780d3af972d7857a45bc5c66e5a48320d84761416ff44edf9d3388f42d8d",
+      "name": "webdesserts"
+    },
+    {
+      "url": "dat://230123dca75f2b87de32bbe07874da48f6a2d5ed99117e6c5089166cfd2455f4",
+      "name": "wmhilton"
+    },
+    {
+      "url": "dat://17bf374b69b376d77d4c84e514e44daf8e4fa1b32120cf858cab2037502ce0a8",
+      "name": "Hypercubed"
+    },
+    {
+      "url": "dat://7e352046d32592b411d7de7086e187d1eba1da25080a6068cf61666bd8120cc4",
+      "name": "Kevin Marks"
+    },
+    {
+      "url": "dat://c6e05a8a2924b148e60c6b2aab4d8d7fe3a923a14a13ab22119e8d13afd2baf7",
+      "name": "keithalexander"
+    },
+    {
+      "url": "dat://453c8faa21215ad8da5970ecce16474515d298963953e733b4520c25992ee906",
+      "name": "gozala"
+    },
+    {
+      "url": "dat://8aa09b2de1779f733327005b08a2e371b02cc650ece8f59093528b29c0eb62ce",
+      "name": "cblgh"
+    },
+    {
+      "url": "dat://b8411795cca3b718009ad2a175da6dd3599efadd398186fcb2ab111b092e8a52",
+      "name": "Joe Hand"
+    },
+    {
+      "url": "dat://158fb866c53af0a62721b74ea17402a08fb4dfe288e6b2b44de51ce9f95918f7",
+      "name": "YvoBrevoort"
+    },
+    {
+      "url": "dat://6bd3e1e241efd731be49da59ce913db1383a877560b87d7305cf66a5b14a8ed8",
+      "name": "lachenmayer"
+    },
+    {
+      "url": "dat://add8ab74058be9e42c8f802bb2945fb659c55dc07e06ec8a359c24aaf7056024",
+      "name": "0x0ade/fritter"
+    },
+    {
+      "url": "dat://e2608cc1cf0ba62df6b563232d2c37f2fa29d1ef62c6176f8b8f13516d08a46f",
+      "name": "forresto"
+    },
+    {
+      "url": "dat://f125492f04fec17b9d915a5c640e979870a67d3254f005872d5e080491e5c9e2",
+      "name": "Andre Staltz"
+    },
+    {
+      "url": "dat://rotonde-0x0ade.hashbase.io",
+      "name": "0x0ade"
+    },
+    {
+      "url": "dat://72671c5004d3b956791b6ffca7f05025d62309feaf99cde04c6f434189694291",
+      "name": "jimpick"
+    },
+    {
+      "url": "dat://2672b05f258b4466f1cda4e830be168222726d972f67306e8656dbfed3c2d602",
+      "name": "webdesserts"
+    },
+    {
+      "url": "dat://013193a9a4b54a2c7b248dbfc086bcc9edad82fcc08d3f9de085c456860bb90a",
+      "name": "gozala"
+    },
+    {
+      "url": "dat://b73f68000a55f9ca6c2d69f8b836656ec20e9d6bca3fe37573e53e9ae92007c7",
+      "name": "Sarven Capadisli"
+    },
+    {
+      "url": "dat://cf29af7b2dc0a751d227c795c36999a3c4c381bd3c9a632bbd38299753097116",
+      "name": "JohnDotAwesome"
+    },
+    {
+      "url": "dat://aba60ff4e2a47e318e793c2b0475c4574ebb7dfa7bd5fd9fd5fb5695a1a195b0",
+      "name": "CrypticDat"
+    },
+    {
+      "url": "dat://5276ca2f92b6d508933ac4b01ef9078938f69bed9ca15c462617f531641b7a6b",
+      "name": "eelfroth"
+    },
+    {
+      "url": "dat://ced1c0e68460000e6fb5d5723a991ecac057b76f4eee0f8ff12c2dc3c5a3ff35",
+      "name": "0x0ade"
+    },
+    {
+      "url": "dat://63f7f3b6b02490b976b7d9d76ce843d2761554aafbf061565311f8d18b6d501c",
+      "name": "TheLink"
+    },
+    {
+      "url": "dat://71b4951cd41b604bff8b6ceb6841d0364b7342afe6fbf0319627c84dc1067015",
+      "name": "ungoldman"
+    },
+    {
+      "url": "dat://ba7fed7837d8aa0acd042407c4a1973da98cc8d89e1426ad06f65b340909fb8b",
+      "name": "Ricky de Laveaga"
+    },
+    {
+      "url": "dat://7c82df45eeacf7c2cf5b8d65abd9678b04c6765eb43d72f941f41f6eadbdf812",
+      "name": "yhancik"
+    },
+    {
+      "url": "dat://25b5fe3259b9d2cc67f160b92607126efda23790252f354e212ae92c972be95b",
+      "name": "Tod Robbins"
+    },
+    {
+      "url": "dat://d19d6d02cad4ea1ba7e6ad6fe5bc50b78f07749fd667047d00019fe3aacd8f53",
+      "name": "Kyle Drake"
+    },
+    {
+      "url": "dat://e9080896cc68cba1c0d3dc4c9ef5421da3263bf4703bcd6d7605937f39fdd8b0",
+      "name": "grossbart"
+    },
+    {
+      "url": "dat://038e282747ffbe4c35b26d531a46afc1f9fdcd3e7d60f736a240978525df7998",
+      "name": "samim"
+    },
+    {
+      "url": "dat://e057a99d8d375962eabea583f9b4cb0739a58852702948f606aa9921656d7a17",
+      "name": "Kristian Muñiz"
+    },
+    {
+      "url": "dat://965f3e7671fe5d78ed23a5b58db9bbd7199a7460cf8acb23ddf21d18f06aaa18",
+      "name": "randallb"
+    },
+    {
+      "url": "dat://d0e6a069aee5c1798a492752c1eafbfb8248cd2eb3a2aa3dbc9b0d181ac63d15",
+      "name": "Aaron Shafovaloff"
+    },
+    {
+      "url": "dat://81ff8011a4534aac2b46b7a82a6fce8afd0907b2ed0558d2dfb9e92888051e53",
+      "name": "kodedninja"
+    },
+    {
+      "url": "dat://a96dcf581591d219d46fa0976c8617dbd81f73c64a2cc1f517dbd0a86caab06a",
+      "name": "Julian Pistorius"
+    },
+    {
+      "url": "dat://5a32f64f5e8e777eb00218d0eb938ae47d9f6d8d48e525498f01a7eb2b4802e1",
+      "name": "Beaker Browser"
+    },
+    {
+      "url": "dat://8db09cc04b6b424f75a03fd851b4ecac5ba50d6c456d84abc180b9be9736696b",
+      "name": "dat://8db0..6b"
+    },
+    {
+      "url": "dat://673bac1e5f03cf25f7125df31ceb04967da37028c48f56a978804f9c892bd3bb",
+      "name": "mshook"
+    },
+    {
+      "url": "dat://eecc9302d9945fc482350f561bb85a9e60ddf18515e61b6783b221a344c47f0f",
+      "name": "Sander Moolin"
+    }
+  ]
+}

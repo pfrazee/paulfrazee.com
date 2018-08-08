@@ -1,0 +1,26 @@
+{
+  "title": "JSConf EU 2018",
+  "photos": [
+    {
+      "url": "/media/photo-albums/jsconfeu-2018/jsconfeu-2018-after-party.jpg",
+      "caption": "Tara and I in the afterparty. You can't tell but we were EXHAUSTED at this point.",
+      "cover": true
+    },
+    {
+      "url": "/media/photo-albums/jsconfeu-2018/jsconfeu-2018-smoll-notes-tara-talk.jpg",
+      "caption": "Somebody (I forget who) made these cool 'smoll notes' of people's talks. Here were the notes for Tara's!"
+    },
+    {
+      "url": "/media/photo-albums/jsconfeu-2018/jsconfeu-2018-paul-speaking.jpg",
+      "caption": "A shot of me giving my talk, 'Formalizing User Rights on the Web'"
+    },
+    {
+      "url": "/media/photo-albums/jsconfeu-2018/jsconfeu-2018-paul-speaking2.jpg",
+      "caption": "Another shot of my talk."
+    },
+    {
+      "url": "/media/photo-albums/jsconfeu-2018/jsconfeu-2018-tara-speaking.jpg",
+      "caption": "Tara giving her talk, 'Imagine This: A Web without Servers'"
+    }
+  ]
+}

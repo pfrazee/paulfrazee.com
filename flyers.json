@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Beaker Browser",
+    "href": "dat://beakerbrowser.com",
+    "desc": "Surf the p2p Web!"
+  },
+  {
+    "title": "Homebase",
+    "href": "https://github.com/beakerbrowser/homebase",
+    "desc": "Keep your dats online. Easy to self-deploy."
+  },
+  {
+    "title": "@beaker/dat-node",
+    "href": "https://github.com/beakerbrowser/dat-node",
+    "desc": "A power-user's library for building dat services on node."
+  },
+  {
+    "title": "Information Civics",
+    "href": "dat://infocivics.com",
+    "desc": "An essay on decentralization and authoritarianism in computing networks."
+  }
+]

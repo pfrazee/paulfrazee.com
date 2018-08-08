@@ -1,0 +1,21 @@
+[
+  {"date": "Jun 10 2018", "href": "/blog/dat-and-servers", "title": "How do dat:// sites interact with servers?"},        
+  {"date": "Jan 03 2018", "href": "/blog/universal-publishing-and-the-webs-black-boxes", "title": "Universal publishing and the Web's black boxes"},        
+  {"date": "Nov 06 2017", "href": "/blog/secure-ledgers-dont-require-proof-of-work", "title": "Secure ledgers don't require proof-of-work"},        
+  {"date": "Aug 10 2017", "href": "/blog/nodevms-alpha", "title": "NodeVMS alpha: trustless execution of services on nodejs"},        
+  {"date": "Jun 22 2017", "href": "/blog/reimagining-the-browser-as-a-network-os", "title": "Reimagining the browser as a network OS"},        
+  {"date": "May 26 2017", "href": "/blog/beaker-browser-0.7", "title": "Announcing Beaker Browser 0.7"},        
+  {"date": "Feb 22 2017", "href": "/blog/announcing-dathttpd", "title": "Announcing DatHTTPD"},        
+  {"date": "Feb 21 2017", "href": "/blog/a-chat-about-beaker-apps", "title": "A chat about Beaker's applications model"},        
+  {"date": "Jan 28 2017", "href": "/blog/webcomponents-yo", "title": "WebComponents, Yo!"},        
+  {"date": "Dec 22 2016", "href": "/blog/achieving-scale", "title": "Achieving Scale in the Decentralized Web"},        
+  {"date": "Dec 18 2016", "href": "/blog/what-is-the-p2p-web", "title": "What is the P2P Web?"},        
+  {"date": "Nov 19 2016", "href": "/blog/not-media-companies", "title": "Not Media Companies"},        
+  {"date": "Oct 22 2016", "href": "/blog/actually-serverless", "title": "Actually Serverless"},        
+  {"date": "Aug 23 2016", "href": "/blog/beaker-browser-0.2", "title": "Beaker Browser 0.2"},        
+  {"date": "Aug 10 2016", "href": "/blog/beaker-browser-0.1", "title": "Beaker Browser 0.1 - Navigate sites on IPFS and Dat"},        
+  {"date": "Mar 26 2015", "href": "/blog/web-of-trust-roundup", "title": "The Web of Trust"},        
+  {"date": "Mar 25 2015", "href": "/blog/why-johnny-cant-encrypt", "title": "Why Johnny Can't Encrypt"},        
+  {"date": "Mar 24 2015", "href": "/blog/computing-trust", "title": "Computing Trust"},        
+  {"date": "Mar 31 2014", "href": "/blog/alan-kays-talks", "title": "Talks by Alan Kay"}
+]
