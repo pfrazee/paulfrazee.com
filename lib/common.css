@@ -1,6 +1,26 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.cover-photo {
+  background: #fafafa;
+  margin-bottom: 0.5rem;
+}
+
+.cover-photo img {
+  display: block;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 .page-layout {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 1rem;
 }
 
 .page-left-sidenav,
@@ -9,43 +29,43 @@
   padding: 0 20px;
 }
 
-.avatar {
-  margin-bottom: 1em;
-  border-radius: 2px;
+pauls-social-profile-minicard {
+  margin-bottom: 1rem;
 }
 
 pauls-nav {
-  position: sticky;
-  top: 1em;
   background: #fff;
   flex-direction: column;
-  align-items: flex-end;
 }
 
 pauls-nav-item {
-  padding: 4px 16px;
-  border: 1px solid transparent;
-  border-right: 1px solid #ccc;
-  text-align: right;
+  padding: 14px 45px;
+  font-size: 13px;
 }
 
 pauls-nav-item .icon {
   width: 16px;
-  margin-left: 8px;
+  margin-right: 8px;
+  opacity: 0.5;
 }
 
 pauls-nav-item[current] {
   font-weight: bold;
-  border: 1px solid #ccc;
-  border-right-color: transparent;
-  border-top-left-radius: 2px;
-  border-bottom-left-radius: 2px;
 }
 
-pauls-social-profile-overview {
-  margin-bottom: 40px;
+pauls-nav-item[current] .icon {
+  opacity: 1;
 }
 
-pauls-post {
-  background: red;
+.sticky {
+  position: sticky;
+  top: 1.5rem;
+}
+
+.flyers > p {
+  font-size: 13px;
+}
+
+pauls-flyer {
+  margin-bottom: 1rem;
 }

@@ -1,26 +1,19 @@
 {
   "name": "Paul Frazee",
-  "bio": "Co-creator of the Beaker Browser and an advocate of the open Web.",
+  "bio": "Co-creator of the Beaker Browser.",
   "avatar": "/media/avatars/current.jpg",
   "details": {
-    "job": [
+    "employer": [
       {
         "title": "Blue Link Labs",
         "href": "https://bluelinklabs.com"
-      },
-      "Cofounder"
+      }
     ],
     "significant_other": {
       "href": "dat://6348fac3c70e916885ead7dce6927f01e02c0efd1a9273849891c23b7e7bac4d",
       "title": "Tara Vancil"
     },
-    "hometown": "Abilene, TX",
-    "currently_playing": "Overwatch",
-    "currently_listening_to": "Exciteshroom Adventure (Mord Fustang)",
-    "currently_excited_for": "The DWeb Summit",
-    "political_leanings": "Socialist Democrat (USA)",
-    "religion": "Secular Humanism",
-    "hates": ["Fox News"]
+    "hometown": "Abilene, TX"
   },
   "follows": [
     {
